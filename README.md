@@ -95,4 +95,4 @@ metody:
 
 > parametry filmu oddělené středníkem
 
-> příklad: Forrest Gump;USA;film;drama;1:5
+> příklad: Forrest Gump;USA;film;drama;1:50
